@@ -3,6 +3,10 @@
 ** AI CREATED README **
 Curtain creates a semi-transparent overlay across your screen(s), cutting out a clear window around your focused application. Perfect for reducing visual distractions and improving concentration during deep work sessions.
 
+
+
+![Curtain-Photo](photo-web)
+![Curtain-term](photo-terminal)
 ## Features
 
 ### 🎯 Focus Mode
@@ -138,7 +142,7 @@ Curtain uses macOS's window management APIs to:
 - Restart the app to reset the overlay state
 
 ## Development
-
+![Curtain-app](photo-app)
 ### Project Structure
 ```
 curtain/
