@@ -1,6 +1,6 @@
 # Curtain 
 **A macOS menu bar app that helps you focus by dimming everything except your active window.**
-## AI CREATED README ##
+** AI CREATED README **
 Curtain creates a semi-transparent overlay across your screen(s), cutting out a clear window around your focused application. Perfect for reducing visual distractions and improving concentration during deep work sessions.
 
 ## Features
@@ -27,7 +27,6 @@ Curtain creates a semi-transparent overlay across your screen(s), cutting out a 
 - `Cmd+Opt+]` - Increase dim by 5%
 
 ###  Convenience
-- **Launch at Login** - Start automatically with macOS
 - **Menu Bar Access** - Quick access to all features
 - **Lightweight** - Minimal CPU and memory usage
 
