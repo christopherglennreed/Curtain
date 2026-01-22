@@ -5,8 +5,8 @@ Curtain creates a semi-transparent overlay across your screen(s), cutting out a 
 
 
 
-![Curtain-Photo](./photo-web)
-![Curtain-term](./photo-terminal)
+![Curtain-Photo](/photo-web)
+![Curtain-term](/photo-terminal)
 ## Features
 
 ### 🎯 Focus Mode
