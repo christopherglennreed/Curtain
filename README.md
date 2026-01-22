@@ -5,8 +5,8 @@ Curtain creates a semi-transparent overlay across your screen(s), cutting out a 
 
 
 
-![Curtain-Photo](/photo-web)
-![Curtain-term](/photo-terminal)
+![Curtain-Photo](/photo-web.png)
+![Curtain-term](/photo-terminal.png)
 ## Features
 
 ### 🎯 Focus Mode
@@ -142,7 +142,7 @@ Curtain uses macOS's window management APIs to:
 - Restart the app to reset the overlay state
 
 ## Development
-![Curtain-app](./photo-app)
+![Curtain-app](./photo-app.png)
 ### Project Structure
 ```
 curtain/
